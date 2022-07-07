@@ -1,7 +1,3 @@
-// Unsplash access key tnrXgxBLnfICUXsbKZ1fTIPl0e0CrLa5th21GJoqJNE
-// Unsplash secret key UQWCfNbv7wRTFOtE1E8mcBEGZwuf8UVCyASfTcy4AQo
-
-
 document.querySelector('button').addEventListener('click', getFunFact)
 
 function getFunFact() {
